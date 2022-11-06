@@ -1,0 +1,22 @@
+.container {
+    margin-bottom: 20em;
+}
+
+.error {
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    font-weight: bolder;
+    font-size: 150px;
+    margin-bottom: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.errorText {
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    font-weight: bolder;
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
